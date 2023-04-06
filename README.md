@@ -148,10 +148,10 @@ MIT License.
 <!-- Team -->
 ## Team
 
+- Daulat Kumar Jha (20bcs037)
 - Keshav Kumar Jha (20bcs070)
 - Brij Vaghani (20bcs033)
 - Lucky Yadav (20bcs077)
-- Daulat Kumar Jha (20bcs037)
 - Hemant (20bcs058)
 - Rohan Singh (20bcs113)
 - Sparsh Jain (20bcs127)
